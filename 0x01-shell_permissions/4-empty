@@ -1,2 +1,2 @@
 #!/bin/bash
-toucn hello
+touch hello
