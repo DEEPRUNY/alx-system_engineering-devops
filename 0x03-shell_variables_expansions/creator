@@ -3,6 +3,6 @@
 echo " input file name"
 read filename
 
-echo "#!/bin/bash" > ${filename}
+echo "#!/bin/bash \n" > ${filename}
 
 chmod +x ${filename}
